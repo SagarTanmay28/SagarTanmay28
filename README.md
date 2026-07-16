@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanmay S Sagar</h1>
-<h3 align="center">C++ Developer | Machine Learning Enthusiast | Full Stack Learner</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sagar_Tanmay&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
@@ -23,13 +23,13 @@
 # 🌐 Connect With Me:
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tanmay-sagar7)" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
 
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:sagartanmay2004@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
@@ -50,7 +50,6 @@
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
 
 ### 🤖 Machine Learning
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
@@ -72,7 +71,7 @@
 - 🤖 Building AI/ML Projects
 - 🌐 Full Stack Development
 - 🎯 Open Source Contributions
-- ⚡ Advanced UI Systems
+
 
 ---
 
