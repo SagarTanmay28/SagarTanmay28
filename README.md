@@ -17,7 +17,7 @@
 # 🌐 Connect With Me:
 
 <p align="left">
-<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/tanmay-sagar7)" target="blank">
+<a href="[https://linkedin.com/in/tanmay-sagar7]" target="blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
