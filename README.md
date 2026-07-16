@@ -3,7 +3,7 @@
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Sagar_Tanmay&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=Sagar-Tanmay&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 </div>
 
