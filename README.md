@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay S Sagar</h1>
 <h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
 
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=Sagar-Tanmay&label=Profile%20Views&color=blueviolet&style=for-the-badge)
-
-</div>
-
 ---
 
 # 🚀 About Me:
