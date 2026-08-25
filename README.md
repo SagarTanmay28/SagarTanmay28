@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tanmay S Sagar</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">Full Stack Developer </h3>
 
 ---
 
 # 🚀 About Me:
 
 🎓 B.Tech Student passionate about problem solving and software development.  
-💻 Currently focused on **DSA, Competitive Programming, Machine Learning & Full Stack Development**.  
+💻 Currently focused on **DSA, Competitive Programming, Full Stack Development**.  
 🤖 Working on **Fake Emergency Call Detection using Machine Learning**.  
 🌱 Exploring **React, Node.js, Express, Firebase and AI-based systems**.  
-📚 Love learning new technologies and building impactful projects.  
-⚡ Strong interest in **UI/UX and Advanced User Interfaces**.
+📚 Love learning new technologies and building impactful projects.
 
 ---
 
@@ -34,7 +33,6 @@
 
 ### 👨‍💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
@@ -55,15 +53,14 @@
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
 ---
 
 # 🔥 Current Focus
 
 - 📚 Mastering DSA & Competitive Programming
-- 🤖 Building AI/ML Projects
 - 🌐 Full Stack Development
+- 🤖 Building AI/ML Projects
 - 🎯 Open Source Contributions
 
 
