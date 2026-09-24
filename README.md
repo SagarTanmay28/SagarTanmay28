@@ -8,7 +8,7 @@
 🎓 B.Tech Student passionate about problem solving and software development.  
 💻 Currently focused on **DSA, Competitive Programming, Full Stack Development**.  
 🤖 Working on **Fake Emergency Call Detection using Machine Learning**.  
-🌱 Exploring **React, Node.js, Express, Firebase and AI-based systems**.  
+🌱 Exploring **RAG, Embeddings, Vector Search, Docker, React, Node.js, Express,and AI-based systems**.  
 📚 Love learning new technologies and building impactful projects.
 
 ---
