@@ -43,7 +43,6 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-Ah, you mean **badges with actual technology logos/links**, like your existing C++, Python, React badges. For these GenAI technologies, use:
 
 ### 🤖 GenAI
 
