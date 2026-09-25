@@ -43,6 +43,31 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
+Ah, you mean **badges with actual technology logos/links**, like your existing C++, Python, React badges. For these GenAI technologies, use:
+
+### 🤖 GenAI
+
+![Gemini](https://img.shields.io/badge/LLM%20APIs%20\(Gemini\)-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge)
+![Tool Calling](https://img.shields.io/badge/Tool--Calling-8E44AD?style=for-the-badge)
+
+If by **“links”** you mean you want each badge to be **clickable and open the official documentation**, use this version:
+
+### 🤖 GenAI
+
+[![Gemini](https://img.shields.io/badge/LLM%20APIs%20\(Gemini\)-4285F4?style=for-the-badge\&logo=googlegemini\&logoColor=white)](https://ai.google.dev/gemini-api/docs)
+
+[![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)](https://ai.google.dev/gemini-api/docs/embeddings)
+
+[![Vector Search](https://img.shields.io/badge/Vector%20Search-00A67E?style=for-the-badge)](https://cloud.google.com/vertex-ai/docs/vector-search/overview)
+
+[![Embeddings](https://img.shields.io/badge/Embeddings-6A5ACD?style=for-the-badge)](https://ai.google.dev/gemini-api/docs/embeddings)
+
+[![Tool Calling](https://img.shields.io/badge/Tool--Calling-8E44AD?style=for-the-badge)](https://ai.google.dev/gemini-api/docs/function-calling)
+
+
 ### 🤖 Machine Learning
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
