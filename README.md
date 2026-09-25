@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Sagar Tanmay Satyavrata </h1>
-<h3 align="center">Full Stack Developer </h3>
+
 
 ---
 
 # 🚀 About Me:
 
-🎓 B.Tech Student passionate about problem solving and software development.  
-💻 Currently focused on **DSA, Competitive Programming, Full Stack Development**.  
+🎓 B.Tech Student passionate about problem solving and Data Analytics,software development.  
+💻 Currently focused on **GenAI,DSA, Competitive Programming, Machine Learning, Full Stack Development**.  
 🤖 Working on **Fake Emergency Call Detection using Machine Learning**.  
-🌱 Exploring **RAG, Embeddings, Vector Search, Docker, React, Node.js, Express,and AI-based systems**.  
+🌱 Exploring **RAG, Embeddings, Vector Search, Docker, Node.js, Express,and AI-based systems**.  
 📚 Love learning new technologies and building impactful projects.
 
 ---
